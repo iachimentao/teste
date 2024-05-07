@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #93b48d;
+    color: #b2cf96;
+    margin: 0;
+    padding: 0;
+}
+
+.conteudo {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color: rgb(34, 97, 58); /* opcional: define a cor do texto dentro do elemento h1 */
+    line-height: 1.6;
+}
+
+body {
+    background-color: #8faa77;
+    margin: 0;
+    padding: 20pt;
+    font-family: Arial, sans-serif;
+    color: rgb(29, 48, 25); /* Texto preto */
+    text-align: center;
+}
+
+h2 {
+    color: rgb(35, 82, 31); /* opcional: define a cor do texto dentro do elemento h2 */
+    line-height: 1.6;
+}
+h3 {
+    color: rgb(25, 46, 23); /* opcional: define a cor do texto dentro do elemento h3 */
+    line-height: 1.6;
+}
+h4 {
+    color: rgb(8, 12, 8); /* opcional: define a cor do texto dentro do elemento h4 */
+    line-height: 1.6;
+}
