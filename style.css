@@ -1,9 +1,16 @@
+a {
+    color: blue; /* Define a cor do texto como azul */
+    text-decoration: none; /* Remove o sublinhado */
+    font-size: 25px; /* Define o tamanho da fonte como 25 pixels */
+}
 body {
     background-color: green;
     margin: 10;
     padding: 30px;
     font-family: Arial, sans-serif; /* opcional: define a fonte do texto no corpo da página */
     text-align: center;
+    text-decoration: none;
+
 }
 
 h1 {
@@ -24,3 +31,4 @@ body{
     background: linear-gradient(90deg, rgb(132, 159, 255) 16%, rgb(227, 255, 211) 100%);
    text-align: center;
 }
+ 
